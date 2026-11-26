@@ -1,1 +1,2 @@
-# Sodium_Negad-Brillo
+# Study Tips for Programming
+This Repository
